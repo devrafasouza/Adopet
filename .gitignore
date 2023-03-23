@@ -1,0 +1,7 @@
+src/backend/.vscode
+src/backend/node_modules
+src/backend/tmp/*
+src/backend/!tmp/.gitkeep
+src/backend/dist
+src/backend/.env
+src/backend/ormconfig.json
