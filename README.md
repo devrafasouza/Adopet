@@ -3,7 +3,7 @@
 Sistema destinado unicamente a facilitar a adoção de pets, através de postagens o pet pode encontrar um lar,
 a postagem pode ser feita por qualquer um que se cadastrar no sistema. O sistema não trata de documentação de adoção sendo de responsabilidade dos usuários.
 
-##Requisitos funcionais
+## Requisitos funcionais
 
 RF01 - O sistema deve permitir que os usuários realizem seus cadastros, solicitando nome, e-mail, senha, avatar (opcional).<br>
 RF02 - O sistema deve exigir que usuários realizem login para acessar o sistema.<br>
