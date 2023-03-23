@@ -3,7 +3,7 @@ a postagem pode ser feita por qualquer um que se cadastrar no sistema. O sistema
 
 ##Requisitos funcionais
 
-RF01 - O sistema deve permitir que os usuários realizem seus cadastros, solicitando nome, e-mail, senha, avatar (opcional).
+RF01 - O sistema deve permitir que os usuários realizem seus cadastros, solicitando nome, e-mail, senha, avatar (opcional).(`<br>`)
 RF02 - O sistema deve exigir que usuários realizem login para acessar o sistema.
 RF03 - O sistema deve permitir que usuários realizem postagens com título, descrição, imagem, telefone,  endereço (cep, cidade, bairro, rua e número(opcional)) e categoria.
 RF04 - O sistema deve permitir que usuários removam postagens de própria autoria.
