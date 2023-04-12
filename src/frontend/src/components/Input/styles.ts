@@ -64,7 +64,8 @@ export const Container = styled.div<ContainerProps>`
     padding-top: 3px;
 
     &::placeholder {
-      color: #666360;
+      color: white;
+      font-weight: bold;
     }
   }
 
