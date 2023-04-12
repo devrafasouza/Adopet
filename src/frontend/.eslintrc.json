@@ -1,9 +1,13 @@
+
+
 {
     "env": {
         "browser": true,
         "es2021": true
     },
     "extends": [
+        "react-app",
+        "prettier",
         "plugin:react/recommended",
         "airbnb",
         "plugin:@typescript-eslint/recommended",
@@ -57,7 +61,12 @@
                 "tsx": "never"
             }
         ],
-        "prettier/prettier": "error"
+        "prettier/prettier": [
+            "error",
+            {
+              "endOfLine": "auto"
+            }
+          ]
     },
     "settings": {
         "import/resolver": {

@@ -4,3 +4,9 @@ build
 /src/react-app-env.d.ts
 /src/reportWebVitals.ts
 /*.js
+/build/
+/config/
+/dist/
+/*.js/
+/test/unit/coverage/
+*
