@@ -35,6 +35,7 @@ export const Filter = styled.div`
     border-radius: 4px;
     border: 2px solid #ff6041;
     background-color: transparent;
+    padding-left: 4px;
   }
 `;
 
