@@ -1,6 +1,6 @@
 #Tela de cadastro
 ![image](https://user-images.githubusercontent.com/44647477/231912580-456e1393-3dd8-4765-9a18-78eb5d39e5de.png)
-![image](https://user-images.githubusercontent.com/44647477/227385838-277069fa-3b4b-4c26-99da-dabdd650543e.png)
+
 #Tela de login
 ![image](https://user-images.githubusercontent.com/44647477/231912596-cd651e6c-ac6f-4d07-a314-bb409506a9ea.PNG)
 
