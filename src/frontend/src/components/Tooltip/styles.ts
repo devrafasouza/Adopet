@@ -5,7 +5,7 @@ export const Container = styled.div`
 
   span {
     width: 160px;
-    background: ${({ theme }) => theme.colors.danger.main};
+    background: #ff0000;
     padding: 8px;
     border-radius: 4px;
     font-size: 14px;
@@ -24,7 +24,7 @@ export const Container = styled.div`
     &::before {
       content: '';
       border-style: solid;
-      border-color: ${({ theme }) => theme.colors.danger.main} transparent;
+      border-color: #ff0000 transparent;
       border-width: 6px 6px 0 6px;
       bottom: 20px;
       top: 100%;

@@ -1,7 +1,5 @@
 import React from 'react';
-
 import { Container, Content } from './styles';
-
 import logoImg from '../../assets/logo.png';
 import aboutImg from '../../assets/about.png';
 
