@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 export const About = styled.div`
   height: 100vh;
-  background: ${({ theme }) => theme.colors.background};
+  background: #ffe8e9;
 
-  color: ${({ theme }) => theme.colors.textColor};
+  color: #8b1a47;
 `;
 
 export const Container = styled.div`

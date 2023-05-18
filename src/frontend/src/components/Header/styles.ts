@@ -12,7 +12,7 @@ export const Container = styled.header`
   justify-content: center;
   align-items: center;
 
-  background: ${({ theme }) => theme.colors.green};
+  background: #008968;
   box-shadow: 0 0 1em red;
 
   z-index: 1;

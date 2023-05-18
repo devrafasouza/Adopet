@@ -28,7 +28,7 @@ const Header: React.FC = () => {
         </a>
 
         <a id="menu-item-avatar" href="/profile">
-          <img src={user.avatar_url} alt="" id="header-avatar" />
+          <img src={user?.avatar_url} alt="" id="header-avatar" />
           Perfil
         </a>
 

@@ -36,7 +36,7 @@ export const Container = styled.div<ContainerProps>`
   ${props =>
     props.isFocused &&
     css`
-      color: ${({ theme }) => theme.colors.green};
+      color: #008968;
       border-color: #008968;
     `}
 
