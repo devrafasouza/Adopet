@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
   height: 100vh;
   width: 100vw;
-  background: ${({ theme }) => theme.colors.background};
+  background: #ffe8e9;
 
   h1 {
     padding: 32px 0;
@@ -25,7 +25,7 @@ export const Content = styled.div`
   flex-direction: column;
 
   padding: 16px;
-  background: ${({ theme }) => theme.colors.orange};
+  background: #ff6041;
   border-radius: 16px;
 
   .newpost-form {

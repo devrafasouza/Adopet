@@ -64,7 +64,7 @@ const PostImages: React.FC = () => {
     <Container>
       <Header />
 
-      <h1>Selecione as Imagens</h1>
+      <h1 role="selectImages">Selecione as Imagens</h1>
 
       <Content>
         <label htmlFor="images">

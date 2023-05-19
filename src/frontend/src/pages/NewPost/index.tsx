@@ -112,7 +112,7 @@ const NewPost: React.FC = () => {
                 handleChangeCategory(e);
               }}
             >
-              <option id="Selecione" value="Selecione">
+              <option role="selectCategoria" id="Selecione" value="Selecione">
                 Selecione
               </option>
 

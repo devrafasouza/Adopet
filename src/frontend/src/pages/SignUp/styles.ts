@@ -19,7 +19,7 @@ export const Content = styled.div`
   height: 100%;
   width: 100%;
   max-width: 700px;
-  background: ${({ theme }) => theme.colors.green};
+  background: #008968;
 
   a {
     color: #fff;
@@ -70,7 +70,7 @@ export const AnimationContainer = styled.div`
     max-width: 400px;
 
     border-radius: 16px 0 16px 0;
-    background: ${({ theme }) => theme.colors.background};
+    background: #ffe8e9;
     box-shadow: 4px 8px 10px rgb(255, 96, 65);
 
     display: flex;
@@ -90,7 +90,7 @@ export const AnimationContainer = styled.div`
 
       border-radius: 10px;
       border: none;
-      background: ${({ theme }) => theme.colors.orange};
+      background: #ff6041;
       transition: background-color 0.2s;
 
       &:hover {

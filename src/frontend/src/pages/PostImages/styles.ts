@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   height: 100vh;
-  background: ${({ theme }) => theme.colors.background};
+  background: #ffe8e9;
 
   h1 {
     padding: 32px 0;
@@ -19,7 +19,7 @@ export const Container = styled.div`
     border-radius: 8px;
 
     color: #000;
-    background: ${({ theme }) => theme.colors.green};
+    background: #008968;
 
     width: 200px;
     height: 32px;
@@ -43,7 +43,7 @@ export const Content = styled.div`
   padding: 16px;
   margin-bottom: 32px;
 
-  background: ${({ theme }) => theme.colors.orange};
+  background: #ff6041;
   border-radius: 16px;
 
   label {
