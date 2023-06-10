@@ -57,7 +57,7 @@ export const Container = styled.div<ContainerProps>`
     
 
   input {
-    background: transparent;
+    background: white;
     width: 100%;
     flex: 1;
     border: 0;
